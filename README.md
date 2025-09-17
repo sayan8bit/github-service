@@ -4,8 +4,8 @@
 1. **Clone this repo & enter folder**
 
    ```bash
-   git clone https://github.com/your-username/react-ghpages-simple.git
-   cd react-ghpages-simple
+   git clone https://github.com/sayan8bit/github-service.git
+   cd github-service
    ```
 
 2. **Install dependencies** (first time only):
