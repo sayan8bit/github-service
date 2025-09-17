@@ -49,7 +49,3 @@
 ---
 
 👉 Rule of thumb: **Every new file in `src/` must be built (`npm run build`) and linked in `index.html` before pushing to GitHub.**
-
----
-
-Do you want me to write this in a **ready-made `README.md` format** so you can directly include it in your template repo?
