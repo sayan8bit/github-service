@@ -1,7 +1,5 @@
 # github-service
 
----
-
 #  Quick Guide
 
 1. **Install dependencies** (first time only):
